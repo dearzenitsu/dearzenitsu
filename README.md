@@ -7,3 +7,4 @@
 <div align="center">
   <img width = "40%" src="https://files.catbox.moe/95dmxq.png">
 </div>
+![](https://komarev.com/ghpvc/?dearzenitsu&label=inozen+lovers)
