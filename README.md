@@ -7,5 +7,6 @@
 <div align="center">
   <img width = "40%" src="https://files.catbox.moe/95dmxq.png">
 </div>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=dearzenitsu&label=zenitsu+lovers&style=plastic&color=FFEAB8)
+![](https://komarev.com/ghpvc/?username=dearzenitsu&label=zenitsu+lovers&style=plastic&color=FFB84D)
