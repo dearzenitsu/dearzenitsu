@@ -8,5 +8,6 @@
   <img width = "40%" src="https://files.catbox.moe/95dmxq.png">
 </div>
 <div align="center">
+</div>
 
 ![](https://komarev.com/ghpvc/?username=dearzenitsu&label=zenitsu+lovers&style=plastic&color=FFB84D)
